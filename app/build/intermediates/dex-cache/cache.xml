@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/montse/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/montse/Documentos/LED/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-20ecac32440650ce249cf7707b9ec8dfa3556b31.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/SunShine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/montse/Documentos/SunShine/app/build/intermediates/pre-dexed/debug/classes-83e938ed46be39b29a5d9312556511f8c404bb68.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/LED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/montse/Documentos/LED/app/build/intermediates/pre-dexed/debug/classes-ad67db71711c91ab2ee1688cf0e953054e4d4a2c.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/montse/Documentos/SunShine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b5ab1a139bd5e93c10e88b0fd49c8d8484fdde27.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/SunShine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/montse/Documentos/SunShine/app/build/intermediates/pre-dexed/debug/classes-b05d07250f2ef4b4f3c3938baec537088ea27d4f.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/LED/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/montse/Documentos/LED/app/build/intermediates/pre-dexed/debug/classes-7e5a35bc5c30fa509d31e388ada641e6e6c6fb44.jar" />
+    </item>
+    <item
+        jar="/home/montse/Documentos/LED/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/montse/Documentos/LED/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-cb3f93787e5af212f6fb564cfff590181d3d0aa9.jar" />
+    </item>
+
+</items>
